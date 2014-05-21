@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/guzart/gulp-ng-constant.git"
+    "url": "git://github.com/mp-jgoetzinger/gulp-ng-constant.git"
   },
   "keywords": [
     "gulp",
@@ -16,9 +16,9 @@
   "author": "Arturo Guzman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/guzart/gulp-ng-constant/issues"
+    "url": "https://github.com/mp-jgoetzinger/gulp-ng-constant/issues"
   },
-  "homepage": "https://github.com/guzart/gulp-ng-constant",
+  "homepage": "https://github.com/mp-jgoetzinger/gulp-ng-constant",
   "dependencies": {
     "lodash": "^2.4.1",
     "gulp-util": "^2.2.14",
